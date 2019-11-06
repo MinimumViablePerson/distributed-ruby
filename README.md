@@ -6,10 +6,16 @@ _Note: This is just a naïve example and it's not how it should be used in produ
 
 _To learn more about RPC, head to: https://en.wikipedia.org/wiki/Remote_procedure_call_
 
-## Setup
+## Example in action
 
-(Optional) Head over to `config.rb` and change `localhost` to your network IP if you wish to try it on different machines in the same network.
+<video controls="controls">
+  <source type="video/mp4" src="https://i.imgur.com/hzVaH0E.mp4"></source>
+  <p>Your browser does not support the video element.</p>
+</video>
 
+## How to run the example
+
+- (Optional) Head over to `config.rb` and change `localhost` to your network IP if you wish to try it on different machines in the same network.
 - Run `ruby Queue.rb` on one terminal.
 - Run `ruby QueueListener.rb` on another terminal.
 - Run `ruby QueueProducer.rb` on another terminal.
