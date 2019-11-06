@@ -8,10 +8,7 @@ _To learn more about RPC, head to: https://en.wikipedia.org/wiki/Remote_procedur
 
 ## Example in action
 
-<video controls="controls">
-  <source type="video/mp4" src="https://i.imgur.com/hzVaH0E.mp4"></source>
-  <p>Your browser does not support the video element.</p>
-</video>
+![example video](https://nmarcora.s3.eu-west-2.amazonaws.com/Kapture+2019-11-06+at+9.21.29.gif)
 
 ## How to run the example
 
