@@ -8,7 +8,7 @@ _To learn more about RPC, head to: https://en.wikipedia.org/wiki/Remote_procedur
 
 ## Example in action
 
-![example gif](https://nmarcora.s3.eu-west-2.amazonaws.com/Kapture+2019-11-06+at+10.18.29.gif)
+![example gif](https://nmarcora.s3.eu-west-2.amazonaws.com/Kapture+2019-11-06+at+10.26.18.gif)
 
 ## How to run the example
 
